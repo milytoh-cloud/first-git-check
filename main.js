@@ -1,2 +1,6 @@
-console.log('gg')
-alert('gggidjiq ')
+console.log("gg");
+alert("gggidjiq ");
+
+function add(a, b) {
+  return a + b;
+}
