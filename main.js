@@ -8,4 +8,5 @@ function add(a, b) {
 }
 
 let age = 60;
+const name = 'mili'
 
